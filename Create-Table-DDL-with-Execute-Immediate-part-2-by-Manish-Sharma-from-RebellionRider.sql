@@ -29,3 +29,6 @@ DESCRIBE tut_83;
 SELECT 'We created a table with name '||object_name||' in '
         ||owner||' schema on '||created
 FROM all_objects WHERE object_name ='TUT_83';
+
+
+
